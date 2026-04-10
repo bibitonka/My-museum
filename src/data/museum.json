@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "The Mediterranean House",
+    "category": "Exhibition",
+    "description": "Explore plants and ecosystems from Mediterranean climates.",
+    "image": "https://via.placeholder.com/600x400?text=Mediterranean+House"
+  },
+  {
+    "id": 2,
+    "title": "The Desert House",
+    "category": "Exhibition",
+    "description": "Discover how plants survive in dry and extreme desert conditions.",
+    "image": "https://via.placeholder.com/600x400?text=Desert+House"
+  },
+  {
+    "id": 3,
+    "title": "The Tropical House",
+    "category": "Exhibition",
+    "description": "Experience lush tropical environments with diverse plant life.",
+    "image": "https://via.placeholder.com/600x400?text=Tropical+House"
+  },
+  {
+    "id": 4,
+    "title": "The Montane Forest House",
+    "category": "Exhibition",
+    "description": "Step into mountain forest ecosystems and cooler climates.",
+    "image": "https://via.placeholder.com/600x400?text=Montane+Forest+House"
+  },
+  {
+    "id": 5,
+    "title": "Danish Habitats",
+    "category": "Exhibition",
+    "description": "Learn about local Danish nature, landscapes, and biodiversity.",
+    "image": "https://via.placeholder.com/600x400?text=Danish+Habitats"
+  }
+]
